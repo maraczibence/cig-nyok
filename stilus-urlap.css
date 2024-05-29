@@ -1,0 +1,9 @@
+body{
+    background-image: url(trabi2.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: scroll;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
